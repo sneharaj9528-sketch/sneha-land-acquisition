@@ -12,3 +12,20 @@ Thumbs.db
 
 # Generated EDA outputs
 eda_outputs/
+# Java JDK files
+src/oracleJdk-27/
+
+# Temporary files
+src/tempCodeRunnerFile.py
+src/font_test.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
